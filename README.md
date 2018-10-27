@@ -3,7 +3,7 @@ Reproduction of Malevich's Suprematism, 18th Construction with Particle Systems
 
 ### Demo
 
-<https://fatiherikli.github.io/malevich/>
+<https://otomat-hackathon.github.io/malevich/>
 
 ### Outputs
 
